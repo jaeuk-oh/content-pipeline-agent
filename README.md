@@ -2,7 +2,7 @@
 
 ## 프로젝트 한 줄 요약
 
-**Pydantic 기반 구조화 출력 + CrewAI Flow를 이용해 "SEO 친화 블로그 글 생성 → 검증 → 후처리"를 자동화한 LLM 파이프라인 프로젝트**
+**Pydantic 기반 구조화 출력 + CrewAI Flow를 이용해 "글 생성 → 검증(SEO, Virality) → 후처리"를 자동화한 LLM 파이프라인 프로젝트**
 
 ---
 
@@ -130,6 +130,7 @@ self.state.blog_post = result
 ## 한 줄 정리
 
 > **LLM을 챗봇으로 쓰는 사람이 아니라, LLM을 시스템 안에 넣을 수 있는 개발자가 되기 위한 프로젝트**
+
 
 
 
