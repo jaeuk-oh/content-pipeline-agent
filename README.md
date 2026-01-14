@@ -1,4 +1,4 @@
-# CrewAI Flow 기반 SEO 콘텐츠 자동화 프로젝트
+# CrewAI Flow 기반 콘텐츠 자동화 프로젝트
 
 ## 프로젝트 한 줄 요약
 
@@ -130,3 +130,4 @@ self.state.blog_post = result
 ## 한 줄 정리
 
 > **LLM을 잘 쓰는 사람이 아니라, LLM을 시스템 안에 넣을 수 있는 개발자가 되기 위한 프로젝트**
+
